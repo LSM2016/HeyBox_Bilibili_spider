@@ -19,7 +19,7 @@ else:
     print("Start_ID:",sys.argv[1])
     print("End_ID:",sys.argv[2])
 
-base_url = "https://xiaoheihe.cn/community/21982/list/"
+base_url = "URL:Hidden"
 
 i = 0
 while (start_id+i)>end_id:

@@ -16,7 +16,7 @@ for bot in tmp_bots:
         pass
 
     print("BOT ID:", bot.id)
-    driver.get("https://xiaoheihe.cn/community/user/" +
+    driver.get("URL:Hidden" +
                str(bot.id) + "/comment_list")
 
     game_nav_list = driver.find_elements_by_class_name('game-nav')
